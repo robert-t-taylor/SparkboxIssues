@@ -1,0 +1,878 @@
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-32-81em\.scss}line{font-family:\000031}}
+#sizeTest {
+  display: none;
+  font-size: 20px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-32-81em\.scss}line{font-family:\000038}}
+header h1.logo a {
+  width: 221px;
+  height: 63px;
+  background-image: url(../../img/logo-2.png);
+  background-position-y: none;
+  background-size: 100%;
+  background-repeat: no-repeat; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-32-81em\.scss}line{font-family:\0000319}}
+a.search {
+  display: none; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-32-81em\.scss}line{font-family:\0000323}}
+.top-wrapper {
+  margin-left: 1.3em; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-32-81em\.scss}line{font-family:\0000327}}
+header .top-search {
+  display: block;
+  float: left;
+  margin: 0;
+  margin-top: 1.2em;
+  margin-left: 6%;
+  padding: 0;
+  width: 37%; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-32-81em\.scss}line{font-family:\0000336}}
+  header .top-search .searchForm {
+    float: none;
+    margin: 0;
+    width: 80%; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-32-81em\.scss}line{font-family:\0000341}}
+  header .top-search .searchButton {
+    margin-top: 0; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-32-81em\.scss}line{font-family:\0000346}}
+.js .super-open {
+  background: #151515; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-32-81em\.scss}line{font-family:\0000350}}
+.super-open nav {
+  width: 50%;
+  border-right: 1px solid #666666; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-32-81em\.scss}line{font-family:\0000355}}
+.super-nav .apply-menu {
+  width: 50%; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-32-81em\.scss}line{font-family:\0000359}}
+.no-js .super-nav .apply-menu {
+  width: 100%; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-32-81em\.scss}line{font-family:\0000364}}
+.super-nav .main-nav .side-load, .super-nav .main-nav .sub-open, .super-nav .main-nav .top-down {
+  position: absolute;
+  top: 0;
+  right: 0;
+  display: block;
+  width: 50%;
+  background: #151515; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-32-81em\.scss}line{font-family:\0000372}}
+  .super-nav .main-nav .side-load a, .super-nav .main-nav .sub-open a, .super-nav .main-nav .top-down a {
+    padding-left: 4em; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-32-81em\.scss}line{font-family:\0000377}}
+.super-nav .main-nav .open-parent {
+  background: #151515; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-32-81em\.scss}line{font-family:\0000380}}
+  .super-nav .main-nav .open-parent > a {
+    position: relative; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-32-81em\.scss}line{font-family:\0000383}}
+    .super-nav .main-nav .open-parent > a:before {
+      position: absolute;
+      top: 7px;
+      right: -19px;
+      z-index: 99;
+      width: 35px;
+      height: 70%;
+      border: 1px solid #666666;
+      border-bottom: none;
+      border-left: none;
+      background: #151515;
+      content: "";
+      -webkit-transform: rotate(45deg);
+      -moz-transform: rotate(45deg);
+      -ms-transform: rotate(45deg);
+      -o-transform: rotate(45deg);
+      transform: rotate(45deg); }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-32-81em\.scss}line{font-family:\00003107}}
+#footer .main {
+  float: left;
+  width: 50%; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-32-81em\.scss}line{font-family:\00003112}}
+#footer .footer-social {
+  float: left;
+  width: 50%; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-32-81em\.scss}line{font-family:\00003117}}
+#footer .footer-apply-donate {
+  clear: both; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-32-81em\.scss}line{font-family:\00003127}}
+.no-touch .super-nav .main-nav .open-parent > a:hover:before {
+  background: #3c3c3c; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-32-81em\.scss}line{font-family:\00003138}}
+.super-nav .sub-nav ul li {
+  border-top: none; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-32-81em\.scss}line{font-family:\00003146}}
+.section-nav {
+  float: left;
+  margin: 0 1.5em 0 .5em;
+  width: 40%; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-32-81em\.scss}line{font-family:\00003151}}
+  .section-nav .more-toggle {
+    display: none; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-32-81em\.scss}line{font-family:\00003155}}
+  .section-nav nav {
+    display: block; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-32-81em\.scss}line{font-family:\00003162}}
+#main .page-title {
+  float: right;
+  width: 57%;
+  background: none;
+  color: #b51e23; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-32-81em\.scss}line{font-family:\00003169}}
+#main .breadcrumb {
+  float: right;
+  width: 57%;
+  background: none; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-32-81em\.scss}line{font-family:\00003176}}
+#main ol a {
+  color: #b51e23; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-32-81em\.scss}line{font-family:\00003184}}
+.main-content img {
+  height: auto; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-32-81em\.scss}line{font-family:\00003187}}
+.main-content p:first-child {
+  margin-top: 0; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-32-81em\.scss}line{font-family:\00003193}}
+.main-content .slider .slide h1 {
+  font-size: 56px;
+  font-size: 3.5rem; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-32-81em\.scss}line{font-family:\00003196}}
+.main-content .slider .slide h2 {
+  font-size: 32px;
+  font-size: 2rem; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-32-81em\.scss}line{font-family:\00003203}}
+.secondary-page {
+  width: 54%;
+  float: right;
+  padding-right: 1em; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-32-81em\.scss}line{font-family:\00003209}}
+.misc-sidebar {
+  clear: both; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-32-81em\.scss}line{font-family:\00003211}}
+  .misc-sidebar img {
+    margin: 0;
+    width: 50%; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-32-81em\.scss}line{font-family:\00003217}}
+.social-sidebar {
+  clear: both; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-32-81em\.scss}line{font-family:\00003225}}
+.news-sidebar h1 {
+  font-size: 16px;
+  font-size: 1rem;
+  padding-top: 1em;
+  clear: both;
+  padding-left: 5%;
+  text-align: left; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-32-81em\.scss}line{font-family:\00003233}}
+.news-sidebar .news {
+  float: left;
+  width: 49%;
+  background-color: transparent; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-32-81em\.scss}line{font-family:\00003239}}
+.news-sidebar .stories {
+  float: right;
+  width: 49%; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-32-81em\.scss}line{font-family:\00003244}}
+.news-sidebar .events {
+  clear: both; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-32-81em\.scss}line{font-family:\00003247}}
+  .news-sidebar .events .single-event {
+    width: auto; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-32-81em\.scss}line{font-family:\00003250}}
+    .news-sidebar .events .single-event h2 {
+      display: inline-block;
+      max-width: 49%;
+      vertical-align: top; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-32-81em\.scss}line{font-family:\00003256}}
+    .news-sidebar .events .single-event p {
+      display: inline-block;
+      padding-top: 0.4em;
+      padding-left: 1%;
+      width: 50%;
+      text-align: left; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-32-81em\.scss}line{font-family:\00003275}}
+.social-sidebar #tweets ol > li {
+  display: block;
+  float: left;
+  clear: none;
+  margin-left: 5%;
+  width: 40%;
+  border: none; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-32-81em\.scss}line{font-family:\00003288}}
+.social-sidebar #videos .video-thumb {
+  float: left;
+  margin-left: 7%;
+  width: 40%; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-32-81em\.scss}line{font-family:\00003296}}
+.social-sidebar .stack p {
+  margin-left: 1em;
+  width: auto; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-53-31em\.scss}line{font-family:\000032}}
+header .more {
+  display: none; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\000031}}
+#sizeTest {
+  display: none;
+  font-size: 30px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\000036}}
+.page-wrapper {
+  margin: 0 auto;
+  width: 980px;
+  background-color: white; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\0000312}}
+body {
+  background-color: #e8e8e8; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\0000316}}
+.js .super-open {
+  background: none; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\0000320}}
+.super-open nav {
+  width: auto;
+  border-right: none; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\0000325}}
+.main-content {
+  float: left;
+  width: 62.9%; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\0000330}}
+.two-sidebars {
+  width: 60.9%;
+  float: left; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\0000335}}
+.secondary-page {
+  padding-top: 4em; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\0000339}}
+.three-sidebars {
+  width: 42.6%;
+  float: left; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\0000346}}
+.main-content .slider {
+  height: 528px;
+  overflow: hidden; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\0000350}}
+  .main-content .slider .slide .heading {
+    position: relative; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\0000353}}
+    .main-content .slider .slide .heading h1 {
+      font-size: 72px;
+      font-size: 4.5rem;
+      margin-bottom: -15px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\0000357}}
+    .main-content .slider .slide .heading h2 {
+      font-size: 40px;
+      font-size: 2.5rem; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\0000361}}
+  .main-content .slider .slide img {
+    position: absolute;
+    left: 179px;
+    top: 0; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\0000366}}
+  .main-content .slider .slide p {
+    position: relative;
+    z-index: 5;
+    width: 47%;
+    padding-top: 0; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\0000377}}
+header .audience {
+  padding-right: 0; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\0000381}}
+header .top-wrapper {
+  position: relative;
+  margin-left: 0; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\0000386}}
+header .menu-icon {
+  display: none; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\0000390}}
+header .top-search {
+  position: absolute;
+  top: 91px;
+  right: 5px;
+  z-index: 10;
+  float: none;
+  margin: 0;
+  padding: 0;
+  width: 170px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003101}}
+header .top-search .searchForm {
+  width: 77%; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003108}}
+#footer {
+  background-color: transparent;
+  background-image: url(../../img/footer-bg-full.jpg);
+  background-repeat: repeat; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003113}}
+  #footer .jump {
+    display: none; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003117}}
+  #footer #audience-links {
+    float: left;
+    width: 30%; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003122}}
+  #footer .footer-apply-donate {
+    float: right;
+    clear: none;
+    width: 18.8%; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003127}}
+    #footer .footer-apply-donate a {
+      font-size: 14.4px;
+      font-size: 0.9rem;
+      padding-left: 1em;
+      text-align: left; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003132}}
+      #footer .footer-apply-donate a [data-icon]:before {
+        font-size: 19.2px;
+        font-size: 1.2rem;
+        top: 27%; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003137}}
+    #footer .footer-apply-donate a.donate, #footer .footer-apply-donate a.apply {
+      height: 46px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003142}}
+  #footer .footer-logo {
+    float: right;
+    width: 18.8%;
+    background-color: transparent; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003149}}
+    #footer .footer-logo h2.logo a {
+      background-size: 80%; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003155}}
+  #footer .copyright {
+    float: right;
+    clear: none;
+    width: 19%;
+    background-color: transparent; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003162}}
+  #footer .main {
+    padding-top: 1.3em;
+    width: 32.6%; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003167}}
+  #footer .footer-social {
+    width: 18.6%; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003169}}
+    #footer .footer-social .no-children {
+      background-color: transparent; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003175}}
+  #footer #search {
+    clear: left;
+    width: 30%; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003182}}
+.js .super-nav {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  display: block;
+  width: 100%; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003188}}
+  .js .super-nav nav {
+    display: block; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003194}}
+#main {
+  position: relative;
+  margin-top: 3.6em;
+  padding-top: 0; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003199}}
+  #main .page-title {
+    position: absolute;
+    top: 19px;
+    left: 19.8%; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003205}}
+  #main .breadcrumb {
+    position: absolute;
+    top: 0.2em;
+    left: 20%; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003216}}
+.no-js #footer #audience-links {
+  display: none; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003223}}
+.no-js .super-nav .secondary.social {
+  display: none; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003227}}
+.no-js .super-nav .main-nav {
+  display: block;
+  padding-left: 0;
+  float: none;
+  width: 100%; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003233}}
+  .no-js .super-nav .main-nav > ul {
+    display: block; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003236}}
+    .no-js .super-nav .main-nav > ul li {
+      display: block;
+      float: none;
+      width: 100%;
+      border: none; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003245}}
+.no-js .super-nav .apply-menu {
+  width: auto; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003250}}
+.no-js .nav-anchor {
+  display: table;
+  float: left;
+  padding-top: 1em;
+  width: 100%;
+  padding-left: 1.3em;
+  height: 30px;
+  border-bottom: 1px solid black; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003259}}
+  .no-js .nav-anchor > ul {
+    display: table-row; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003262}}
+    .no-js .nav-anchor > ul li {
+      display: table-cell;
+      margin-bottom: 0;
+      padding-bottom: 0;
+      width: 117px;
+      border-left: 1px solid black;
+      padding-left: 1em;
+      border-top: none; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003272}}
+    .no-js .nav-anchor > ul a {
+      font-size: 11.2px;
+      font-size: 0.7rem;
+      padding-bottom: 10px;
+      width: 100%;
+      height: 100%;
+      display: block;
+      background: none;
+      color: black; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003282}}
+    .no-js .nav-anchor > ul a:visited {
+      background: none;
+      color: black; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003287}}
+    .no-js .nav-anchor > ul a:hover {
+      background: none;
+      background-color: none; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003295}}
+.super-nav .apply-menu {
+  top: -125px;
+  right: 0;
+  width: auto; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003300}}
+  .super-nav .apply-menu ul li {
+    display: block; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003302}}
+    .super-nav .apply-menu ul li a {
+      font-size: large;
+      font-size: 1.30625rem;
+      width: 8.555em; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003307}}
+    .super-nav .apply-menu ul li a.apply {
+      background: #b51e23; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003311}}
+    .super-nav .apply-menu ul li a.donate {
+      background: #8d1418; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003316}}
+    .super-nav .apply-menu ul li a.apply:after, .super-nav .apply-menu ul li a.donate:after {
+      top: 27%;
+      right: 8%; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003324}}
+.super-nav .secondary.apply-menu ul li a {
+  padding: 0;
+  padding-top: .7em;
+  text-align: center; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003331}}
+.super-nav .secondary.contact {
+  float: right;
+  width: auto; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003335}}
+  .super-nav .secondary.contact > ul {
+    background: none; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003340}}
+.super-nav .secondary.social {
+  float: left;
+  margin-top: -21px;
+  width: 18.3%; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003345}}
+  .super-nav .secondary.social > ul {
+    background: #cddfea; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003348}}
+    .super-nav .secondary.social > ul li {
+      margin: 0;
+      padding: .5em 0 .5em 1em;
+      border: none; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003353}}
+      .super-nav .secondary.social > ul li a {
+        margin: 0;
+        padding: 0;
+        color: #5c899d; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003360}}
+  .super-nav .secondary.social .social-media-link {
+    display: none; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003365}}
+.super-nav .main-nav {
+  display: table;
+  float: left;
+  padding-top: 0;
+  padding-left: 1.3em;
+  width: 616px;
+  border-bottom: 1px solid black; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003373}}
+  .super-nav .main-nav > ul {
+    display: table-row;
+    background: none; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003379}}
+    .super-nav .main-nav > ul .parent:hover {
+      background: #a5201d; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003383}}
+    .super-nav .main-nav > ul .parent > a, .super-nav .main-nav > ul .parent a:visited {
+      padding-bottom: 10px;
+      width: 100%;
+      height: 100%;
+      background: none;
+      color: black; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003390}}
+      .super-nav .main-nav > ul .parent > a:before, .super-nav .main-nav > ul .parent a:visited:before {
+        display: none; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003394}}
+      .super-nav .main-nav > ul .parent > a [data-icon]:before, .super-nav .main-nav > ul .parent a:visited [data-icon]:before {
+        display: none; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003399}}
+    .super-nav .main-nav > ul .parent > a:hover {
+      background: none;
+      background-color: none;
+      color: white; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003406}}
+    .super-nav .main-nav > ul .open-parent {
+      background: #a5201d; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003409}}
+      .super-nav .main-nav > ul .open-parent > a, .super-nav .main-nav > ul .open-parent a:visited {
+        background-color: none;
+        color: white; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003415}}
+    .super-nav .main-nav > ul li {
+      display: table-cell;
+      float: none;
+      margin-bottom: 0;
+      padding-bottom: 0;
+      width: 117px;
+      border-top: none;
+      border-left: 1px solid black;
+      vertical-align: bottom; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003428}}
+  .super-nav .main-nav .side-load, .super-nav .main-nav .sub-open, .super-nav .main-nav .top-down {
+    top: 57px;
+    right: 0;
+    left: 0;
+    padding-top: 1em;
+    padding-bottom: 2.5em;
+    padding-left: 1.3em;
+    width: 100%;
+    background: #313131; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003438}}
+    .super-nav .main-nav .side-load ul, .super-nav .main-nav .sub-open ul, .super-nav .main-nav .top-down ul {
+      display: block;
+      float: left;
+      width: 80%; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003444}}
+    .super-nav .main-nav .side-load li, .super-nav .main-nav .sub-open li, .super-nav .main-nav .top-down li {
+      float: left;
+      margin-right: 1em;
+      margin-left: 1em;
+      padding: .3em;
+      width: 30%;
+      border: none;
+      border-bottom: 1px solid #666666; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003453}}
+      .super-nav .main-nav .side-load li a, .super-nav .main-nav .side-load li a:hover, .super-nav .main-nav .side-load li a:visited, .super-nav .main-nav .sub-open li a, .super-nav .main-nav .sub-open li a:hover, .super-nav .main-nav .sub-open li a:visited, .super-nav .main-nav .top-down li a, .super-nav .main-nav .top-down li a:hover, .super-nav .main-nav .top-down li a:visited {
+        padding-bottom: 5px;
+        color: #c6c6c6; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003458}}
+      .super-nav .main-nav .side-load li a:hover, .super-nav .main-nav .sub-open li a:hover, .super-nav .main-nav .top-down li a:hover {
+        background: #444444; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003462}}
+      .super-nav .main-nav .side-load li a, .super-nav .main-nav .sub-open li a, .super-nav .main-nav .top-down li a {
+        padding-left: 1em; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003469}}
+.super-nav .secondary.contact {
+  position: absolute;
+  top: -54px;
+  right: 30px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003474}}
+  .super-nav .secondary.contact li {
+    position: relative;
+    float: left;
+    border-top: none; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003479}}
+    .super-nav .secondary.contact li:after {
+      position: absolute;
+      top: 0;
+      right: 0;
+      color: #616161;
+      content: "|"; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003488}}
+    .super-nav .secondary.contact li:last-child:after {
+      display: none; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003493}}
+    .super-nav .secondary.contact li a, .super-nav .secondary.contact li a:visited, .super-nav .secondary.contact li a:hover {
+      margin: 0 1.1em 0 1.1em;
+      padding: 0;
+      color: #616161; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003499}}
+    .super-nav .secondary.contact li a:hover {
+      background: none;
+      text-decoration: underline; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003510}}
+.section-nav {
+  margin: 0;
+  margin-left: .5em;
+  padding-top: 3.6em;
+  width: 190px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003518}}
+.lt-ie9 header .audience h1 {
+  padding-top: 1.5em; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003522}}
+.lt-ie9 .super-nav .main-nav ul a {
+  padding-top: 0; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003527}}
+.lt-ie9 .super-nav .secondary.social {
+  margin-top: -29px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003532}}
+.lt-ie9 .super-nav .main-nav .top-down, .lt-ie9 .super-nav .main-nav .side-load, .lt-ie9 .super-nav .main-nav .sub-open {
+  top: 63px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003538}}
+.lt-ie9 .main-content .slider h1 {
+  color: black; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003542}}
+.lt-ie9 .secondary-page {
+  padding-top: 5em; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003546}}
+.lt-ie9 .main-content .slider .slide img, .lt-ie9 .caption {
+  top: 10px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003553}}
+.news-sidebar {
+  float: left;
+  clear: none;
+  margin-top: 0;
+  width: 18.3%; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003559}}
+  .news-sidebar h1 {
+    font-size: 14.4px;
+    font-size: 0.9rem;
+    padding-top: 0;
+    padding-left: 0;
+    text-align: center; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003566}}
+  .news-sidebar h2 {
+    font-size: 14.4px;
+    font-size: 0.9rem;
+    margin-top: 0; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003571}}
+  .news-sidebar .all {
+    font-size: 12.8px;
+    font-size: 0.8rem; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003575}}
+  .news-sidebar .news {
+    float: none;
+    padding-top: .5em;
+    width: 100%;
+    background-color: #699bba; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003582}}
+  .news-sidebar .stories {
+    float: none;
+    width: 100%; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003587}}
+  .news-sidebar .events {
+    padding-top: .5em; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003590}}
+    .news-sidebar .events .single-event {
+      margin: 0 auto;
+      width: 95%; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003594}}
+      .news-sidebar .events .single-event h2 {
+        max-width: 100%; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003597}}
+      .news-sidebar .events .single-event p {
+        width: 100%; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003606}}
+.social-sidebar {
+  float: left;
+  clear: none;
+  width: 18.8%; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003611}}
+  .social-sidebar #tweets {
+    -ms-word-break: break-all;
+    word-break: break-all;
+    word-break: break-word;
+    -webkit-hyphens: auto;
+    -moz-hyphens: auto;
+    hyphens: auto; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003621}}
+    .social-sidebar #tweets ol > li {
+      display: block;
+      float: none;
+      margin: 0 auto;
+      padding-top: 1em;
+      padding-bottom: 2.4em;
+      width: 85.2%;
+      border-top: 1px solid #6fa6bf; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003633}}
+    .social-sidebar #tweets ol article a {
+      word-wrap: break-word; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003637}}
+    .social-sidebar #tweets ol article .tweet-actions {
+      background-color: none; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003640}}
+      .social-sidebar #tweets ol article .tweet-actions ul {
+        margin: 0;
+        padding: 0; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003645}}
+      .social-sidebar #tweets ol article .tweet-actions a, .social-sidebar #tweets ol article .tweet-actions a:visited {
+        color: #699bba; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003656}}
+  .social-sidebar #videos .video-thumb {
+    float: none;
+    margin: 0 auto;
+    margin-left: 0;
+    padding: .5em 0 .5em 0;
+    width: 90%; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003664}}
+    .social-sidebar #videos .video-thumb .play-video span {
+      top: 35%;
+      left: 42%; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003673}}
+  .social-sidebar .fb_iframe_widget iframe, .social-sidebar .fb_iframe_widget > span {
+    width: 184px !important; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003685}}
+  .social-sidebar .social-nav ol li a [data-icon]:before {
+    font-size: 24px;
+    font-size: 1.5rem; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003698}}
+.caption-sidebar {
+  display: block;
+  float: left;
+  clear: none;
+  padding-top: 7em;
+  padding-left: .5em;
+  width: 18.3%;
+  border-top: none;
+  border-left: 1px solid #a5201d; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003709}}
+.caption {
+  position: absolute;
+  top: 0;
+  right: 18.6%;
+  width: 18%; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003716}}
+.misc-sidebar {
+  float: left;
+  clear: none;
+  width: 18.3%;
+  display: block; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003726}}
+.lt-ie8 .searchButton {
+  padding-left: 0px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003735}}
+.lt-ie8 .social-sidebar .social-nav ol li a span {
+  color: #699bb9; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003743}}
+.lt-ie8 .wrapper {
+  clear: both; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003754}}
+.lt-ie8 .super-nav .apply-menu ul li a span {
+  margin-top: 10px;
+  margin-left: .5em; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003763}}
+.lt-ie8 .super-nav .main-nav {
+  display: block; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003766}}
+  .lt-ie8 .super-nav .main-nav > ul {
+    display: block;
+    width: 100%; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003770}}
+    .lt-ie8 .super-nav .main-nav > ul li {
+      display: block;
+      width: 117px;
+      float: left; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003778}}
+    .lt-ie8 .super-nav .main-nav > ul .parent a span {
+      display: none; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003785}}
+  .lt-ie8 .super-nav .main-nav .top-down {
+    width: 980px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003788}}
+    .lt-ie8 .super-nav .main-nav .top-down li {
+      width: 294px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003795}}
+.lt-ie8 .social-sidebar {
+  width: 184px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003799}}
+.lt-ie8 .caption-sidebar, .lt-ie8 .news-sidebar {
+  width: 180px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003803}}
+.lt-ie8 .caption {
+  width: 180px;
+  top: 15px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003808}}
+.lt-ie8 .secondary-page {
+  padding-top: 5em; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003812}}
+.lt-ie8 .three-sidebars {
+  width: 417px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003818}}
+.lt-ie8 header .audience h1 {
+  padding-bottom: 1.3em; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003824}}
+.lt-ie8 #footer .footer-apply-donate a span {
+  margin-top: 10px;
+  margin-left: .5em; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003835}}
+.lt-ie8 #footer .footer-logo h2.logo a {
+  background-image: url(../../img/transparent-logo-ie7.png); }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003847}}
+.lt-ie8 .main-content .slider .slide p {
+  width: 300px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003851}}
+.lt-ie8 .main-content .slider h2 {
+  width: 600px;
+  padding-left: 0;
+  padding-right: 0;
+  display: block; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003858}}
+.lt-ie8 #main .breadcrumb {
+  top: 10px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/CMU-heinz-college-web\/sass\/_min-width-60em\.scss}line{font-family:\00003862}}
+.lt-ie8 .misc-sidebar h2 {
+  padding-top: 10px; }
